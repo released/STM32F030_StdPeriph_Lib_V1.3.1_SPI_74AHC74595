@@ -1,0 +1,4 @@
+---- SPI_CMD_EXAMPLE Matches (3 in 3 files) ----
+Hw_config.c (Projects\STM32F0xx_StdPeriph_Templates):void SPI_CMD_EXAMPLE(void)
+Hw_config.h (Projects\STM32F0xx_StdPeriph_Templates):void SPI_CMD_EXAMPLE(void);
+main.c (Projects\STM32F0xx_StdPeriph_Templates):		SPI_CMD_EXAMPLE();
